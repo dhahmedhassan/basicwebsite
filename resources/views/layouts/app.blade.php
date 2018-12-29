@@ -7,6 +7,8 @@
     <title>My Laravel Basicwebsite</title>
 </head>
 <body>
-    <h1>My Laravel Basicwebsite</h1>
+    @yield('content')
+
+    @include('inc.sidebar')
 </body>
 </html>

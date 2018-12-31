@@ -1,5 +1,5 @@
-<footer class="footer mt-auto py-3">
+<footer id="footer" class="footer text-center">
     <div class="container">
-      <span class="text-muted">Copy Rights Ahmed Hassan 2018</span>
+      <span>Copyrights &copy; Ahmed Hassan 2018</span>
     </div>
   </footer>
